@@ -4,5 +4,5 @@ including Heads of Departments (HOD), students and administrators, through dedic
 administrative privileges for data handling, student management and can download the details of student. Hod can access the student campus placements details.
 
 Step !:-
-Initially you can start this project by using the mainpage.html their u can access through the differnt pages like about.html,contact.html,side.html and you can retrieve the databse throught the miniproject.SQLSource file
+Initially you can start this project by using the mainpage.html their you can access through the different pages like about.html,contact.html,side.html and you can retrieve the databse throught the miniproject.SQLSource file
 
